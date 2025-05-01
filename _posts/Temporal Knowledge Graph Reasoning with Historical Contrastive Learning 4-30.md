@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:     4.30 Paper Reading
-subtitle:   
+subtitle:   TKG paper
 date:       2025-04-30
 author:     SHK
 header-img: img/post-bg-debug.png
