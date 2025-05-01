@@ -1,3 +1,16 @@
+---
+layout:     post
+title:     4.30 Paper Reading
+subtitle:   
+date:       2025-04-30
+author:     SHK
+header-img: img/post-bg-debug.png
+catalog: true
+tags: TKG
+---
+
+
+
 # Temporal Knowledge Graph Reasoning with Historical Contrastive Learning 4-30
 
 - Unsqueezed ->加入一个维度
