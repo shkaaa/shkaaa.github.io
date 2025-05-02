@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:     Image Processing Class
-subtitle:   TKG paper
+subtitle:   IP class
 date:       2025-05-02
 author:     SHK
 header-img: img/post-bg-debug.png
@@ -20,5 +20,25 @@ tags:
 
 calculate bit size of image & video
 
+Value Range: 0~255 = 8 bit/pixel
+
+Image Size = ColorNum * pixels * **log_2 (ValueRange)**
+
+Video size = bands * pixels * AllFrames *  **log_2 (ValueRange)**
+
+- RGB color distance: same distance in color space varies in the color difference people seeing.
+
+$$
+C=1-R;c=255-r
+$$
+
+RGB转CMY要用 $c=2^n-1-r$
+
 ### Q3
 
+Aliasing Errors: sampling frequency is less than $2\times \Omega_{max}$
+
+Signal-to-Noise ratio: 
+$$
+SN=10\log_{10}\frac{P_{signal}}{P_{noise}}
+$$
