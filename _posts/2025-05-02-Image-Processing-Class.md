@@ -34,6 +34,8 @@ $$
 
 RGB转CMY要用 $c=2^n-1-r$
 
+![https://shkaaa.github.io/picx-images-hosting/Screenshot-2025-05-02-at-13.40.26.sz5o1j7py.webp](https://shkaaa.github.io/picx-images-hosting/Screenshot-2025-05-02-at-13.40.26.sz5o1j7py.webp)
+
 ### Q3
 
 Aliasing Errors: sampling frequency is less than $2\times \Omega_{max}$
