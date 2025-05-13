@@ -2,7 +2,7 @@
 layout:     post
 title:     NLP-Class
 subtitle:   NLP
-date:       2025-07-01
+date:       2025-05-13
 author:     SHK
 header-img: img/post-bg-debug.png
 catalog: true
